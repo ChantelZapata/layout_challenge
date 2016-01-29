@@ -1,44 +1,37 @@
 * {
 	box-sizing: border-box;
 	}
-
 body {
 	margin: 0 auto;
 	width: 1090px;
 	}
-
- .boxstyle {
+.boxstyle {
   border-width: 1px;
   border-style: solid;
   border-color: #969696;
   background-color: #d7d7d7;
 	}
-
 .tcbox1 {
   height: 164px;
   margin-top: 40px;
   clear: both;
   width: 1090px;
 }
-
 .tcbox2 {
   margin-top: 20px;
   overflow: hidden;
   clear: both;
 }
-
 .tcbox2a {
   height: 450px;
   width: 735px; 
   float: left;
 }
-
 .tcbox2b {
   height: 450px;
   width: 335px;
   float: right;
 }
-
 .tcbox3 {
   clear: both;
   height: 164px;
@@ -51,13 +44,11 @@ body {
   overflow: hidden;
   clear: both;
 }
-
 .threecbox2a {
   height: 450px;
   width: 206px;
   float: left;
 }
-
 .threecbox2b {
   height: 450px;
   width: 638px;
@@ -69,4 +60,39 @@ body {
   width: 206px;
   float: right;
 }
-
+.smpmrketrow2 {
+  margin-top: 20px;
+  overflow: hidden;
+  clear: both;
+}
+.smpmrketrow2a {
+	height: 450px;
+	width: 535px;
+	float: left;
+}
+.smpmrketrow2b {
+	height: 450px;
+	width: 535px;
+	float: right;
+}
+.smpmrketrow3 {
+  margin-top: 20px;
+  overflow: hidden;
+  clear: both;
+}
+.smpmrketrow3a {
+	height: 220px;
+	width: 350px;
+	float: left;
+}
+.smpmrketrow3b {
+	height: 220px;
+	width: 350px;
+	float: left;
+	margin-left: 20px;
+}
+.smpmrketrow3c {
+	height: 220px;
+	width: 350px;
+	float: right;
+}
