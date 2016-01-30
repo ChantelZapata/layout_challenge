@@ -143,14 +143,48 @@ header nav ul li {
 	clear: both;
 	overflow: hidden;
 }
-.tallbox {
-	height: 560px;
-	width: 130px;
+aside {
+	height: 490px;
+	width: 262px;
 	float: left;
+	margin-right: 20px;
 }
 .secondary {
-	clear: both;
-	height: 560px;
-	width: 940px;
 	float: right;
 }
+.mag1strowbox {
+  width: 806px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+.mag2ndrowbox {
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.mag2ndrowbox .mag2ndrowbox1 {
+  float: left;
+  width: 490px;
+  height: 200px;
+  margin-right: 20px;
+}
+.mag2ndrowbox .mag2ndrowbox2 {
+  float: left;
+  width: 296px;
+  height: 200px;
+}
+.mag3rdrowbox {
+  overflow: hidden;
+  clear: both;
+}
+.mag3rdrowbox .lastcolrow {
+  float: left;
+  width: 182px;
+  height: 100px;
+  margin-right: 20px;
+}
+.mag3rdrowbox .lastcolrow .last {
+  margin-right: 0;
+}
+/* Something broke on the spacing of the 3rd row of the marketing with nav when I was working on the magazine one. 
+I am going to try to play with it some more.
+However, I wanted to submit this as I know my work is tardy as it is.*/
